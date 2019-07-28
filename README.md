@@ -42,8 +42,8 @@
 
 ## Стрелки
 
-<img src="arrows/left.png" width="256" alt="Стрелка влево для указателей.">
-<img src="arrows/right.png" width="256" alt="Стрелка вправо для указателей.">
+<img src="arrows/arrow-left.png" width="256" alt="Стрелка влево для указателей.">
+<img src="arrows/arrow-right.png" width="256" alt="Стрелка вправо для указателей.">
 
 Стрелки для указателей: [PDF](arrows/arrows.pdf) или [AI](arrows/arrows.ai) (CMYK)
 
