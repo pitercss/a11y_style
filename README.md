@@ -20,20 +20,6 @@
 
 [Исходник](logo/logo.ai) (RGB) и [наклейки](logo/logo.ai) (CMYK) в AI
 
-## Страницы
-
-<img src="pages/vk-top.png" alt="Верхний баннер для Вконтакте.">
-
-Верхний баннер для Вконтакте: [PNG](pages/vk-top.png) или [PSD](pages/vk-top.psd)
-
-<img src="pages/vk-right.png" width="256" alt="Правый баннер для Вконтакте.">
-
-Правый баннер для Вконтакте: [PNG](pages/vk-right.png) или [PSD](pages/vk-right.psd)
-
-<img src="pages/facebook.png" alt="Баннер для Фейсбука.">
-
-Баннер для Фейсбука: [PNG](pages/facebook.png) или [PSD](pages/facebook.psd)
-
 ## События
 
 - [Анонс митапа в соцсетях](events/social.psd)
