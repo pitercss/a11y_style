@@ -34,3 +34,6 @@
 
 Стрелки для указателей: [PDF](arrows/arrows.pdf) или [AI](arrows/arrows.ai) (CMYK)
 
+---
+
+[Разработано в Шишках](http://www.shishki.pro/)
