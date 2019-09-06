@@ -35,6 +35,9 @@
 
 Стрелки для указателей: [PDF](arrows/arrows.pdf) или [AI](arrows/arrows.ai) (CMYK)
 
+## Все макеты
+[Figma](https://www.figma.com/file/8cm1PnmPbZL2j0oRYMKH6w/pitera11y_meetup?node-id=0%3A2)
+
 ---
 
 [Разработано в Шишках](http://www.shishki.pro/)
